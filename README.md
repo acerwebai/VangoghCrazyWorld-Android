@@ -5,7 +5,7 @@ Setup steps as following:
 <img src = 'images/EnLinux.jpg' height = '220px'>
 <img src = 'images/LinuxConsole.jpg' height = '250px'>
 
-2. Download the <a href="https://github.com/acerwebai/VangoghCrazyWorld-Android/releases/download/1.01/VangoghCrazyWorld_Android_20190215.zip">latest release build </a> to setup your environment for building android APK for Vangogh Crazy World in Chrome OS. <br/>
+2. Download the <a href="https://github.com/acerwebai/VangoghCrazyWorld-Android/releases/download/1.00/VangoghCrazyWorld_Android.zip">latest release build </a> to setup your environment for building android APK for Vangogh Crazy World in Chrome OS. <br/>
 3. Copy “VangoghCrazyWorld_Android_20190214.zip” into Linux working folder.
 <img src = 'images/Copytolinux.jpg' height = '220px'>
 4. Unzip VangoghCrazyWorld_Android_20190214.zip on Linux Console
